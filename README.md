@@ -7,7 +7,13 @@ Nos objectifs:
 * Créer un petit groupe de gens intéressés par monter en niveau dans des compétences en bioinformatique
 
 
+## To do list des choses en cours
+
+* Faire une To Do List :-)
+* Prevenir la direction
+* Prevenir d'autres potentiels interessés (?)
+
+
 ## Liste de réunions et objectifs
 
 * 20230623 - Prémière réunion, établissement de sujets objectifs et besoins
-* 
